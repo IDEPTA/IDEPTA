@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hey, I'm Sergey
 
-<!--
-**IDEPTA/IDEPTA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Backend Developer from Russia  
+🛠  Coding with **PHP**, **Laravel 12**, **Docker**, **Redis**, **Elasticsearch**, and **PostgreSQL**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech & Tools
+![PHP](https://img.shields.io/badge/PHP-8.4-777?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-12-red?style=for-the-badge&logo=laravel)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch)
+
+---
+
+## 📫 Contact
+- Telegram: [@idepta](https://t.me/idepta)
+
+---
